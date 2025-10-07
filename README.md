@@ -56,5 +56,5 @@ The model was trained using real housing data, and the application provides **qu
    cd bangloreHousePredictions_DataSci/server
 
 
-## 📁 Project Structure
+
 
